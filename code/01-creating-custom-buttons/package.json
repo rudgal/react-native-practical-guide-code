@@ -21,5 +21,9 @@
     "@babel/core": "^7.12.9",
     "@types/react-native": "^0.69.5"
   },
+  "prettier": {
+    "tabWidth": 2,
+    "singleQuote": true
+  },
   "private": true
 }
